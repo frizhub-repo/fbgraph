@@ -1,6 +1,6 @@
 {
-  "name": "fbgraph",
-  "version": "1.4.4",
+  "name": "@frizhub/fbgraph",
+  "version": "1.0.0",
   "description": "Facebook Graph API client",
   "license": "MIT",
   "keywords": [
@@ -9,8 +9,8 @@
     "graph"
   ],
   "author": {
-    "name": "Cristiano Oliveira",
-    "email": "ocean.cris@gmail.com>"
+    "name": "Atif",
+    "email": "atif.sikander@frizhub.com"
   },
   "main": "index",
   "dependencies": {
@@ -22,9 +22,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/criso/fbgraph.git"
+    "url": "git://github.com/frizhub-repo/fbgraph.git"
   },
   "engines": {
-    "node": ">= 0.4.1"
+    "node": "^14.15.0"
   }
 }
